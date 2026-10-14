@@ -1,4 +1,4 @@
-# MsftPowerBIStudy: Semantic Modeling with AI
+# MsftPowerBIStudy: Prerequisites
 
 You must complete these prerequisites successfully before proceeding to study participation.
 
