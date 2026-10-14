@@ -102,7 +102,7 @@ The MCP servers should have a green checkmark to show they are connected using y
 Enter the following prompt text into Copilot chat. This is a safeguard to avoid cached credentials to other tenants. Remember to replace `USER_NUMBER` to match the login provided in your study invitation.
 
 ```text
-During this session, authenticate only using powerbitestuser<USER_NUMBER>@msftpowerbistudy.onmicrosoft.com. Create items only in the powerbitestuser<USER_NUMBER> workspace and use only the powerbitestuser1 workspace.
+During this session, authenticate only using powerbitestuser<USER_NUMBER>@msftpowerbistudy.onmicrosoft.com. Create items only in the powerbitestuser<USER_NUMBER> workspace.
  ```
 
 <!--
