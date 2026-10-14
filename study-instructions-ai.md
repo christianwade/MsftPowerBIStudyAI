@@ -109,7 +109,7 @@ During this session, authenticate only using powerbitestuser<USER_NUMBER>@msftpo
  and use only the powerbi-authoring, FabricIQ and fabric-sqlendpoint MCP servers.
  -->
 
-![new-copilot-chat](resources/img/new-copilot-chat.png)
+![new-copilot-chat](resources/img/new-copilot-chat-v2.png)
 
 At this point, or later when you enter more commands, pay close attention to whether you are asked to authenticate. Log in using the `powerbitestuser<USER_NUMBER>@msftpowerbistudy.onmicrosoft.com` account. If the connection times out, Copilot could ask you to re-authenticate.
 
