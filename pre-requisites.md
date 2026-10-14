@@ -1,6 +1,6 @@
 # MsftPowerBIStudy: Prerequisites
 
-You must complete these prerequisites successfully before proceeding to study participation.
+You must complete these prerequisites successfully before proceeding to the [Create Semantic Model with AI](study-instructions-ai.md) section.
 
 ## Laptop
 
